@@ -1,2 +1,2 @@
 # logicaDeProgramacaoDJ_SESI-SENAI
-Repositório para aulas SENAI.
+Repositório para as aulas SENAI.
