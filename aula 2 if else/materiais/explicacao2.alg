@@ -17,7 +17,7 @@ escreval("b: Cheddar Bacon = R$19,90")
 escreval("c: Milkshake = R$99,90 (em promoção)")
 escreval("d: Cancelar pedido (e aceitar receber e-mails ofensivos de ameaças e tals)")
 
-leia (opcao)
+leia(opcao)
 
 escolha(opcao)
 // switch / case

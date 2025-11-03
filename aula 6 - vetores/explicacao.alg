@@ -16,7 +16,7 @@ escreval("Qual o código do produto?")
 leia(opcao)
 
 se (opcao < 1) ou (opcao > 4) entao
-    escreval ("Produto indisponível ou inexistente.")
+    escreval ("Produto indisponível/inexistente.")
 senao
     escreval ("Produto: " + produtos[opcao])
     escreval("Obrigado pela compra! Você pagará com sua alma! :)")
